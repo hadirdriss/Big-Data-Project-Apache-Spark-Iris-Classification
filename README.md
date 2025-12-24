@@ -120,12 +120,22 @@ Train-Test split
 
 ### 🧑‍💻 Technologies Used
 
-📌Apache Spark
+✔️Apache Spark
 
-📌PySpark
+✔️PySpark
 
-📌Spark SQL
+✔️Spark SQL
 
-📌Spark MLlib
+✔️Spark MLlib
 
-📌Python
+✔️Python
+
+### 📬 Contact
+
+👤 Hadir DRISS
+
+📧 Email : hadirdriss6@gmail.com
+
+💼 GitHub : https://github.com/hadirdriss
+
+🔗 LinkedIn : https://www.linkedin.com/in/hadir-driss-287202206/
