@@ -106,13 +106,13 @@ Train-Test split
 
     -Strong classification performance
 
--Random Forest
+- Random Forest
 
     -96%
 
     -Excellent balance between robustness and precision
 
--MLP (Neural Network)
+- MLP (Neural Network)
 
     -96%
 
@@ -120,12 +120,12 @@ Train-Test split
 
 ### 🧑‍💻 Technologies Used
 
-Apache Spark
+📌Apache Spark
 
-PySpark
+📌PySpark
 
-Spark SQL
+📌Spark SQL
 
-Spark MLlib
+📌Spark MLlib
 
-Python
+📌Python
