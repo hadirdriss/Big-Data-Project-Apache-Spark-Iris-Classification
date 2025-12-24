@@ -21,12 +21,17 @@ It involves:
 The dataset contains measurements of Iris flowers and their species classification.
 
 ***🧾 Schema***
+```
  |-- sepal.length: double
- |-- sepal.width: double
- |-- petal.length: double
- |-- petal.width: double
- |-- variety: string
 
+ |-- sepal.width: double
+
+ |-- petal.length: double
+
+ |-- petal.width: double
+
+ |-- variety: string
+```
 ### 🔍 Description
 
 ***Features***
