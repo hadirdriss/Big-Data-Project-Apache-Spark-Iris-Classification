@@ -100,20 +100,32 @@ Train-Test split
 
 ***🧠 Model Insights***
 
-Naïve Bayes & Decision Tree
+- Naïve Bayes & Decision Tree
 
-Achieved 100% accuracy
+    -Achieved 100% accuracy
 
-Strong classification performance
+    -Strong classification performance
 
-Random Forest
+-Random Forest
 
-96%
+    -96%
 
-Excellent balance between robustness and precision
+    -Excellent balance between robustness and precision
 
-MLP (Neural Network)
+-MLP (Neural Network)
 
-96%
+    -96%
 
-Slightly lower but still strong performance
+    -Slightly lower but still strong performance
+
+### 🧑‍💻 Technologies Used
+
+Apache Spark
+
+PySpark
+
+Spark SQL
+
+Spark MLlib
+
+Python
