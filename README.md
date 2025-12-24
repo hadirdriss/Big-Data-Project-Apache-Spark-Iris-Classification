@@ -23,13 +23,9 @@ The dataset contains measurements of Iris flowers and their species classificati
 ***🧾 Schema***
 ```
  |-- sepal.length: double
-
  |-- sepal.width: double
-
  |-- petal.length: double
-
  |-- petal.width: double
-
  |-- variety: string
 ```
 ### 🔍 Description
@@ -49,10 +45,12 @@ The dataset contains measurements of Iris flowers and their species classificati
 Variety → (Iris-setosa, Iris-versicolor, Iris-virginica)
 
 ✔️ Clean dataset
+
 ✔️ Balanced classes
+
 ✔️ Suitable for classification tasks
 
-### ⚙️ Steps Completed###
+### ⚙️ Steps Completed 
 ***1️⃣ Spark Session Creation***
 
 Spark environment initialized and validated.
@@ -63,7 +61,7 @@ Loaded CSV file into a Spark DataFrame
 
 Displayed schema and descriptive statistics
 
-3️⃣ Data Manipulation
+***3️⃣ Data Manipulation***
 
 Column selection
 
@@ -71,7 +69,7 @@ Filtering conditions (>, BETWEEN, logical conditions)
 
 Feature understanding and preparation
 
-4️⃣ Spark SQL
+***4️⃣ Spark SQL***
 
 Created temporary SQL table
 
@@ -80,3 +78,40 @@ Executed SQL queries including:
 Counting distinct species
 
 Counting frequency of each species
+
+### 🤖 Machine Learning — Spark MLlib
+***🔧 Data Preparation***
+
+Encoded variety label
+
+Feature vector assembly
+
+Train-Test split
+
+***📊 Model Accuracy Results***
+| Model                | Accuracy |
+| -------------------- | -------- |
+| Naïve Bayes          | **100%** |
+| Decision Tree        | **100%** |
+| Random Forest        | **96%**  |
+| Neural Network (MLP) | **96%**  |
+
+***🧠 Model Insights***
+
+Naïve Bayes & Decision Tree
+
+Achieved 100% accuracy
+
+Strong classification performance
+
+Random Forest
+
+96%
+
+Excellent balance between robustness and precision
+
+MLP (Neural Network)
+
+96%
+
+Slightly lower but still strong performance
