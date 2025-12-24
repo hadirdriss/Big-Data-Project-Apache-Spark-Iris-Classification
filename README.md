@@ -51,6 +51,7 @@ Variety → (Iris-setosa, Iris-versicolor, Iris-virginica)
 ✔️ Suitable for classification tasks
 
 ### ⚙️ Steps Completed 
+
 ***1️⃣ Spark Session Creation***
 
 Spark environment initialized and validated.
@@ -80,6 +81,7 @@ Counting distinct species
 Counting frequency of each species
 
 ### 🤖 Machine Learning — Spark MLlib
+
 ***🔧 Data Preparation***
 
 Encoded variety label
